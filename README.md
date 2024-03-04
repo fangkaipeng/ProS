@@ -1,10 +1,8 @@
 # ProS: Prompting-to-simulate
 
-Official github repository for **ProS: Prompting-to-simulate Generalized knowledge for Universal Cross-Domain Retrieval**. Please refer to [paper link](https://arxiv.org/abs/2312.12478) for detailed information.
-
-**The code is being organized and will be released soon！**
-
->The goal of Universal Cross-Domain Retrieval (UCDR) is to achieve robust performance in generalized test scenarios, wherein data may belong to strictly unknown domains and categories during training. Recent pre-trained models with prompt tuning have shown strong generalization capabilities and attained noteworthy achievements in various downstream tasks, such as few-shot learning and video-text retrieval. However, applying them directly to UCDR may not sufficiently address both domain shift (i.e., adapting to unfamiliar domains) and semantic shift (i.e., transferring to unknown categories). To address this challenge, we propose \textbf{Pro}mpting-to-\textbf{S}imulate (ProS), the first method to apply prompt for UCDR. ProS employs a two-step process to simulate Dynamic Content-aware Dynamic prompts (CaDP) which can impact models to generate generalized features for UCDR. Concretely, in Prompt Units Learning stage, we integrate two distinct Prompt Units to individually capture domain and semantic knowledge in a mask-and-align way. Then, in Context-aware Prompt Simulation stage, we train a Content-aware Prompt Simulator under a simulated test scenarios to produce the corresponding CaDP.  Extensive experiments conducted on three benchmark datasets show that our method effectively alleviate domain and semantic shift, achieving new state-of-the-art performance without bringing excessive parameters.  Our method is publicly available at https://github.com/fangkaipeng/ProS
+> Official github repository for **ProS: Prompting-to-simulate Generalized knowledge for Universal Cross-Domain Retrieval**. 
+> 
+> Please refer to [paper link](https://arxiv.org/abs/2312.12478) for detailed information.
 
 <img src="./main_figure.png"/>
 

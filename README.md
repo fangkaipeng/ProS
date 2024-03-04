@@ -1,4 +1,4 @@
-# ProS: Prompting-to-simulate
+# ProS: Prompting-to-simulate [CVPR2024]
 
 > Official github repository for **ProS: Prompting-to-simulate Generalized knowledge for Universal Cross-Domain Retrieval**. 
 > 

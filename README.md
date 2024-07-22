@@ -40,8 +40,13 @@ conda activate ProS
    bash download_sketchy.sh
    bash download_tuberlin.sh
    ```
+   update:
+   Google Drive sharing URL for Sketchy and TU-berlin:
+   - Sketchy：https://drive.google.com/drive/folders/1IGmRIP826s_aGYq004vbJfyaMGsCmUeD?usp=sharing
 
-2. The directory is expected to be in the structure below:
+   - TU-berlin：https://drive.google.com/drive/folders/1qTEe5DjGdh45UFfGa6Ofy_80yJRp7uI5?usp=sharing
+   
+3. The directory is expected to be in the structure below:
 
    ```python
    ├── DomainNet
